@@ -29,6 +29,5 @@
         "psr-0": {
             "ApkParser": "lib"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
