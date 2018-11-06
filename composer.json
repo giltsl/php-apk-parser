@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Read basic info about an application from .apk file.",
     "keywords": ["apk", "parser", "android"],
-    "homepage": "https://github.com/tufanbarisyildirim/php-apk-parser",
+    "homepage": "https://github.com/giltsl/php-apk-parser",
     "license": "MIT",
     "authors": [
         {
@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tufanbarisyildirim/php-apk-parser.git"
+            "url": "https://github.com/giltsl/php-apk-parser.git"
         }
     ],
     "autoload": {
